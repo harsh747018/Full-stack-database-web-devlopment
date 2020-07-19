@@ -1,0 +1,11 @@
+html { 
+    background: url('../assets/a1.jpg') no-repeat center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+}
